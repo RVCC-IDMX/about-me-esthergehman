@@ -1,0 +1,35 @@
+body {
+    font-family: Bitter;
+    background-color: #E0DDAF;
+    color: #482894;
+    font-size: 15pt;
+}
+
+h1, h2, h3{
+    font-family: Bungee;
+    font-size: 30pt;
+}
+
+h4, h5, h6 {
+    font-family: Bungee;
+    font-size: 20pt;
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer{
+    border: 5px solid #482894;
+    text-align: center;
+    background-color: #948B19;
+    padding: 10px;
+}
+
+#hero img {
+    width: 300px
+}
+
+#bio {
+    text-align: center;
+}
