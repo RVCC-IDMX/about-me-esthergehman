@@ -8,11 +8,13 @@ body {
 h1, h2, h3{
     font-family: Bungee;
     font-size: 30pt;
+    text-align: center;
 }
 
 h4, h5, h6 {
     font-family: Bungee;
     font-size: 20pt;
+    text-align: center;
 }
 
 header {
@@ -32,4 +34,11 @@ header {
 
 #bio {
     text-align: center;
+}
+
+#hobbies ul li:nth-child(odd){
+    background-color: #948B19;
+}
+#hobbies ul li:nth-child(even){
+    background-color: #A078FF;
 }
